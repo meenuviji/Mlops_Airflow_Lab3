@@ -137,12 +137,14 @@ ls /opt/airflow/dags/models
 ---
 
 ---
-
 ## 📸 Screenshots
 
-| DAG Graph View                                  | Task Log View                                |
-| ----------------------------------------------- | -------------------------------------------- |
-| ![Graph View](screenshots/dag_success.png) | ![Task Log](screenshots/task_log.png) |
+### DAG Graph View
+![DAG Graph View](screenshots/dag_success.png)
+
+### Task Log View
+![Task Log View](screenshots/task_log.png)
+
 
 
 ---
