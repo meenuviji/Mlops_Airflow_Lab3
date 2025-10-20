@@ -144,7 +144,6 @@ ls /opt/airflow/dags/models
 | ----------------------------------------------- | -------------------------------------------- |
 | ![Graph View](screenshots/dag_success.png) | ![Task Log](screenshots/task_log.png) |
 
-*(Store screenshots in a folder named `images/` inside your repo before pushing to GitHub.)*
 
 ---
 
