@@ -1,0 +1,45 @@
+[2025-10-20T18:36:50.010+0000] {processor.py:153} INFO - Started process (PID=39) to work on /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:36:50.011+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/src/lab_wine.py for tasks to queue
+[2025-10-20T18:36:50.013+0000] {logging_mixin.py:137} INFO - [2025-10-20T18:36:50.013+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:36:50.755+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:36:50.766+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/src/lab_wine.py took 0.758 seconds
+[2025-10-20T18:37:21.615+0000] {processor.py:153} INFO - Started process (PID=136) to work on /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:37:21.616+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/src/lab_wine.py for tasks to queue
+[2025-10-20T18:37:21.617+0000] {logging_mixin.py:137} INFO - [2025-10-20T18:37:21.617+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:37:22.205+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:37:22.211+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/src/lab_wine.py took 0.600 seconds
+[2025-10-20T18:37:52.566+0000] {processor.py:153} INFO - Started process (PID=232) to work on /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:37:52.567+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/src/lab_wine.py for tasks to queue
+[2025-10-20T18:37:52.567+0000] {logging_mixin.py:137} INFO - [2025-10-20T18:37:52.567+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:37:52.899+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:37:52.907+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/src/lab_wine.py took 0.344 seconds
+[2025-10-20T18:38:23.266+0000] {processor.py:153} INFO - Started process (PID=311) to work on /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:38:23.267+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/src/lab_wine.py for tasks to queue
+[2025-10-20T18:38:23.267+0000] {logging_mixin.py:137} INFO - [2025-10-20T18:38:23.267+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:38:23.545+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:38:23.554+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/src/lab_wine.py took 0.289 seconds
+[2025-10-20T18:38:54.066+0000] {processor.py:153} INFO - Started process (PID=408) to work on /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:38:54.067+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/src/lab_wine.py for tasks to queue
+[2025-10-20T18:38:54.068+0000] {logging_mixin.py:137} INFO - [2025-10-20T18:38:54.068+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:38:54.375+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:38:54.382+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/src/lab_wine.py took 0.320 seconds
+[2025-10-20T18:39:25.054+0000] {processor.py:153} INFO - Started process (PID=505) to work on /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:39:25.056+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/src/lab_wine.py for tasks to queue
+[2025-10-20T18:39:25.057+0000] {logging_mixin.py:137} INFO - [2025-10-20T18:39:25.056+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:39:25.369+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:39:25.376+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/src/lab_wine.py took 0.328 seconds
+[2025-10-20T18:39:55.673+0000] {processor.py:153} INFO - Started process (PID=602) to work on /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:39:55.674+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/src/lab_wine.py for tasks to queue
+[2025-10-20T18:39:55.676+0000] {logging_mixin.py:137} INFO - [2025-10-20T18:39:55.675+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:39:56.032+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:39:56.040+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/src/lab_wine.py took 0.370 seconds
+[2025-10-20T18:40:26.340+0000] {processor.py:153} INFO - Started process (PID=699) to work on /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:40:26.340+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/src/lab_wine.py for tasks to queue
+[2025-10-20T18:40:26.341+0000] {logging_mixin.py:137} INFO - [2025-10-20T18:40:26.340+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:40:26.592+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:40:26.597+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/src/lab_wine.py took 0.260 seconds
+[2025-10-20T18:40:56.832+0000] {processor.py:153} INFO - Started process (PID=778) to work on /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:40:56.833+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/src/lab_wine.py for tasks to queue
+[2025-10-20T18:40:56.833+0000] {logging_mixin.py:137} INFO - [2025-10-20T18:40:56.833+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:40:57.193+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/src/lab_wine.py
+[2025-10-20T18:40:57.209+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/src/lab_wine.py took 0.379 seconds
